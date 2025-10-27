@@ -1,0 +1,153 @@
+
+mascot.webp
+size: 1790,651
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 1376, 299
+  size: 350, 147
+  orig: 350, 151
+  offset: 0, 4
+  index: -1
+arm_r
+  rotate: false
+  xy: 1525, 304
+  size: 214, 191
+  orig: 214, 191
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: true
+  xy: 926, 28
+  size: 244, 179
+  orig: 244, 179
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 381, 274
+  size: 375, 657
+  orig: 388, 657
+  offset: 13, 0
+  index: -1
+eyeclosed_l
+  rotate: false
+  xy: 1741, 418
+  size: 44, 40
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+eyeclosed_r
+  rotate: false
+  xy: 1525, 502
+  size: 69, 55
+  orig: 76, 64
+  offset: 4, 4
+  index: -1
+eyeopened_l
+  rotate: false
+  xy: 1008, 7
+  size: 37, 19
+  orig: 39, 19
+  offset: 1, 0
+  index: -1
+eyeopened_r
+  rotate: false
+  xy: 1741, 386
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1107, 10
+  size: 283, 225
+  orig: 283, 226
+  offset: 0, 1
+  index: -1
+foreleg_r
+  rotate: true
+  xy: 223, 11
+  size: 244, 330
+  orig: 244, 330
+  offset: 0, 0
+  index: -1
+fronthair
+  rotate: false
+  xy: 1525, 559
+  size: 152, 90
+  orig: 152, 90
+  offset: 0, 0
+  index: -1
+fronthair_l
+  rotate: true
+  xy: 1741, 460
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+head_piece
+  rotate: true
+  xy: 1679, 219
+  size: 83, 92
+  orig: 87, 95
+  offset: 0, 3
+  index: -1
+iris
+  rotate: true
+  xy: 1741, 355
+  size: 29, 31
+  orig: 95, 44
+  offset: 0, 13
+  index: -1
+leg_l
+  rotate: false
+  xy: 1040, 295
+  size: 334, 354
+  orig: 334, 354
+  offset: 0, 0
+  index: -1
+skirt_b
+  rotate: true
+  xy: 926, 2
+  size: 24, 80
+  orig: 31, 80
+  offset: 7, 0
+  index: -1
+skirt_m
+  rotate: false
+  xy: 1679, 497
+  size: 104, 152
+  orig: 107, 160
+  offset: 0, 4
+  index: -1
+wing_l-l
+  rotate: false
+  xy: 2, 6
+  size: 219, 249
+  orig: 228, 261
+  offset: 4, 8
+  index: -1
+wing_l_h
+  rotate: true
+  xy: 1334, 14
+  size: 279, 343
+  orig: 288, 354
+  offset: 3, 4
+  index: -1
+wing_r_h
+  rotate: true
+  xy: 2, 257
+  size: 392, 377
+  orig: 398, 386
+  offset: 3, 4
+  index: -1
+wing_r_l
+  rotate: false
+  xy: 555, 6
+  size: 369, 266
+  orig: 384, 276
+  offset: 11, 7
+  index: -1

@@ -613,7 +613,7 @@
     },
     "_type": 0,
     "_fillType": 0,
-    "_sizeMode": 2,
+    "_sizeMode": 0,
     "_fillCenter": {
       "__type__": "cc.Vec2",
       "x": 0,
@@ -698,7 +698,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 129.334,
+      "y": 145.956,
       "z": 0
     },
     "_lrot": {
@@ -764,7 +764,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 2,
+      "y": -1.836,
       "z": 0
     },
     "_lrot": {
@@ -854,7 +854,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 27.43,
+      "width": 27.23,
       "height": 40
     },
     "_anchorPoint": {
@@ -895,12 +895,12 @@
     "_verticalAlign": 1,
     "_actualFontSize": 32,
     "_fontSize": 32,
-    "_fontFamily": "Arial",
+    "_fontFamily": "",
     "_lineHeight": 40,
     "_overflow": 0,
     "_enableWrapText": true,
     "_font": {
-      "__uuid__": "e49580ed-07b3-4744-a16c-5778f7af09ca",
+      "__uuid__": "59b8c29b-dbc2-4ded-a86e-b72de688b5fd",
       "__expectedType__": "cc.BitmapFont"
     },
     "_isSystemFontUsed": false,
@@ -1016,7 +1016,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 27.43,
+      "width": 27.23,
       "height": 40
     },
     "_anchorPoint": {
@@ -1062,7 +1062,7 @@
     "_overflow": 0,
     "_enableWrapText": true,
     "_font": {
-      "__uuid__": "e49580ed-07b3-4744-a16c-5778f7af09ca",
+      "__uuid__": "59b8c29b-dbc2-4ded-a86e-b72de688b5fd",
       "__expectedType__": "cc.BitmapFont"
     },
     "_isSystemFontUsed": false,
@@ -1178,7 +1178,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 6.1,
+      "width": 12.94,
       "height": 40
     },
     "_anchorPoint": {
@@ -1224,7 +1224,7 @@
     "_overflow": 0,
     "_enableWrapText": true,
     "_font": {
-      "__uuid__": "e49580ed-07b3-4744-a16c-5778f7af09ca",
+      "__uuid__": "59b8c29b-dbc2-4ded-a86e-b72de688b5fd",
       "__expectedType__": "cc.BitmapFont"
     },
     "_isSystemFontUsed": false,
@@ -1340,7 +1340,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 27.43,
+      "width": 27.23,
       "height": 40
     },
     "_anchorPoint": {
@@ -1386,7 +1386,7 @@
     "_overflow": 0,
     "_enableWrapText": true,
     "_font": {
-      "__uuid__": "e49580ed-07b3-4744-a16c-5778f7af09ca",
+      "__uuid__": "59b8c29b-dbc2-4ded-a86e-b72de688b5fd",
       "__expectedType__": "cc.BitmapFont"
     },
     "_isSystemFontUsed": false,
@@ -1502,7 +1502,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 27.43,
+      "width": 27.23,
       "height": 40
     },
     "_anchorPoint": {
@@ -1548,7 +1548,7 @@
     "_overflow": 0,
     "_enableWrapText": true,
     "_font": {
-      "__uuid__": "e49580ed-07b3-4744-a16c-5778f7af09ca",
+      "__uuid__": "59b8c29b-dbc2-4ded-a86e-b72de688b5fd",
       "__expectedType__": "cc.BitmapFont"
     },
     "_isSystemFontUsed": false,
@@ -1693,8 +1693,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 223,
-      "height": 51
+      "width": 142,
+      "height": 44
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -1735,7 +1735,7 @@
     },
     "_type": 0,
     "_fillType": 0,
-    "_sizeMode": 2,
+    "_sizeMode": 0,
     "_fillCenter": {
       "__type__": "cc.Vec2",
       "x": 0,
@@ -3064,8 +3064,8 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 1,
-      "y": 1,
+      "x": 0.8,
+      "y": 0.8,
       "z": 1
     },
     "_mobility": 0,
@@ -3151,8 +3151,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 772,
-      "height": 128
+      "width": 908,
+      "height": 177
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -3188,7 +3188,7 @@
       "a": 255
     },
     "_spriteFrame": {
-      "__uuid__": "e3f68a2e-5c31-4b5d-84f4-84c73eb84b64@f9941",
+      "__uuid__": "58e3589c-9495-4f73-be57-97833f404a0c@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
     "_type": 0,
@@ -3403,7 +3403,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 210.67,
+      "width": 219.79,
       "height": 100
     },
     "_anchorPoint": {

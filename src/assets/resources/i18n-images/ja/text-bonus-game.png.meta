@@ -8,6 +8,28 @@
     ".png"
   ],
   "subMetas": {
+    "text-bonus-game": {
+      "ver": "1.0.6",
+      "uuid": "76a4f204-f4d0-4673-817d-594fbce52e68",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a52db2dc-af92-4ea3-829b-2609e63c458b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": 3,
+      "trimX": 8,
+      "trimY": 13,
+      "width": 262,
+      "height": 49,
+      "rawWidth": 274,
+      "rawHeight": 81,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    },
     "6c48a": {
       "importer": "texture",
       "uuid": "cb80a108-25ab-4f7e-a57a-3cca1f02e261@6c48a",
@@ -41,14 +63,14 @@
       "userData": {
         "trimThreshold": 1,
         "rotated": false,
-        "offsetX": -1,
-        "offsetY": -31.5,
-        "trimX": 5,
-        "trimY": 65,
-        "width": 437,
-        "height": 90,
-        "rawWidth": 449,
-        "rawHeight": 157,
+        "offsetX": 2,
+        "offsetY": 3,
+        "trimX": 8,
+        "trimY": 13,
+        "width": 262,
+        "height": 49,
+        "rawWidth": 274,
+        "rawHeight": 81,
         "borderTop": 0,
         "borderBottom": 0,
         "borderLeft": 0,
@@ -60,17 +82,17 @@
         "meshType": 0,
         "vertices": {
           "rawPosition": [
-            -218.5,
-            -45,
+            -131,
+            -24.5,
             0,
-            218.5,
-            -45,
+            131,
+            -24.5,
             0,
-            -218.5,
-            45,
+            -131,
+            24.5,
             0,
-            218.5,
-            45,
+            131,
+            24.5,
             0
           ],
           "indexes": [
@@ -82,33 +104,33 @@
             3
           ],
           "uv": [
-            5,
-            92,
-            442,
-            92,
-            5,
-            2,
-            442,
-            2
+            8,
+            68,
+            270,
+            68,
+            8,
+            19,
+            270,
+            19
           ],
           "nuv": [
-            0.011135857461024499,
-            0.012738853503184714,
-            0.9844097995545658,
-            0.012738853503184714,
-            0.011135857461024499,
-            0.5859872611464968,
-            0.9844097995545658,
-            0.5859872611464968
+            0.029197080291970802,
+            0.2345679012345679,
+            0.9854014598540146,
+            0.2345679012345679,
+            0.029197080291970802,
+            0.8395061728395061,
+            0.9854014598540146,
+            0.8395061728395061
           ],
           "minPos": [
-            -218.5,
-            -45,
+            -131,
+            -24.5,
             0
           ],
           "maxPos": [
-            218.5,
-            45,
+            131,
+            24.5,
             0
           ]
         },

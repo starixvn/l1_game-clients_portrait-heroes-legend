@@ -1,0 +1,13 @@
+
+decor-particle.png
+size: 416,312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_spot
+  rotate: false
+  xy: 2, 2
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1

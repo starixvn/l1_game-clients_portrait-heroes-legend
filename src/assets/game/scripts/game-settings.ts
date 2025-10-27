@@ -1,9 +1,11 @@
 export const GAME_NAME = "MagicForest";
+export const GAME_NAMESPACE = "magicForest";
+
 export const settings = {
     id: 64,
     name: GAME_NAME,
     observerNamespace: GAME_NAME,
-    tolgeeNamespaces: [GAME_NAME, "Classicslot"],
+    tolgeeNamespaces: [GAME_NAMESPACE, "Classicslot"],
     durations: {
         // dont need these durations configs for this game
         wholeRound: 14,
