@@ -28,7 +28,13 @@
       "borderBottom": 0,
       "borderLeft": 0,
       "borderRight": 0,
-      "subMetas": {}
+      "subMetas": {},
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "6c48a": {
       "importer": "texture",
@@ -65,12 +71,12 @@
         "rotated": false,
         "offsetX": 0,
         "offsetY": 0,
-        "trimX": 0,
-        "trimY": 0,
-        "width": 274,
-        "height": 81,
-        "rawWidth": 274,
-        "rawHeight": 81,
+        "trimX": 95,
+        "trimY": 14,
+        "width": 172,
+        "height": 52,
+        "rawWidth": 362,
+        "rawHeight": 80,
         "borderTop": 0,
         "borderBottom": 0,
         "borderLeft": 0,
@@ -82,17 +88,17 @@
         "meshType": 0,
         "vertices": {
           "rawPosition": [
-            -137,
-            -40.5,
+            -86,
+            -26,
             0,
-            137,
-            -40.5,
+            86,
+            -26,
             0,
-            -137,
-            40.5,
+            -86,
+            26,
             0,
-            137,
-            40.5,
+            86,
+            26,
             0
           ],
           "indexes": [
@@ -104,33 +110,33 @@
             3
           ],
           "uv": [
-            0,
-            81,
-            274,
-            81,
-            0,
-            0,
-            274,
-            0
+            95,
+            66,
+            267,
+            66,
+            95,
+            14,
+            267,
+            14
           ],
           "nuv": [
-            0,
-            0,
-            1,
-            0,
-            0,
-            1,
-            1,
-            1
+            0.26243093922651933,
+            0.175,
+            0.7375690607734806,
+            0.175,
+            0.26243093922651933,
+            0.825,
+            0.7375690607734806,
+            0.825
           ],
           "minPos": [
-            -137,
-            -40.5,
+            -86,
+            -26,
             0
           ],
           "maxPos": [
-            137,
-            40.5,
+            86,
+            26,
             0
           ]
         },

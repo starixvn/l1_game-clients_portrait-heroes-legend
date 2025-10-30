@@ -1,0 +1,13 @@
+
+cloud.webp
+size: 566,295
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud
+  rotate: false
+  xy: 2, 2
+  size: 562, 291
+  orig: 598, 318
+  offset: 23, 23
+  index: -1

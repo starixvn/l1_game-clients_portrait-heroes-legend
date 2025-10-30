@@ -443,6 +443,10 @@ export const languages = {
         "gameNames.64": "Mahiwagang Gubat",
         "game_name": "Mahiwagang Gubat",
         "game_icon_name": "Mahiwagang Gubat"
+    },
+    "LegendOfHeroes": {
+        "game_name": "Ang Alamat ng mga Bayani",
+        "game_icon_name": "Ang Alamat ng mga Bayani"
     }
 };
 

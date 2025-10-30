@@ -1,8 +1,8 @@
-export const GAME_NAME = "MagicForest";
-export const GAME_NAMESPACE = "magicForest";
+export const GAME_NAME = "HeroesSlot";
+export const GAME_NAMESPACE = "LegendOfHeroes";
 
 export const settings = {
-    id: 64,
+    id: 38,
     name: GAME_NAME,
     observerNamespace: GAME_NAME,
     tolgeeNamespaces: [GAME_NAMESPACE, "Classicslot"],

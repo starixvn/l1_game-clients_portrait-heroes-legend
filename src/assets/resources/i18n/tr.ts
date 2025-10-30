@@ -443,6 +443,10 @@ export const languages = {
         "gameNames.64": "Büyülü Orman",
         "game_name": "Büyülü Orman",
         "game_icon_name": "Büyülü Orman"
+    },
+    "LegendOfHeroes": {
+        "game_name": "Kahramanlar Efsanesi",
+        "game_icon_name": "Kahramanlar Efsanesi"
     }
 };
 

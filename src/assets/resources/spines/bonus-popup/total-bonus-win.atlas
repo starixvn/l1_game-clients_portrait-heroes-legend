@@ -1,153 +1,76 @@
 
 total-bonus-win.webp
-size: 523,616
+size: 1005,342
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-fx_coinA_00
+coin_A_00
   rotate: false
-  xy: 453, 574
-  size: 43, 40
-  orig: 47, 46
-  offset: 2, 3
+  xy: 882, 242
+  size: 117, 98
+  orig: 118, 99
+  offset: 0, 1
   index: -1
-fx_coinA_01
-  rotate: false
-  xy: 272, 582
-  size: 43, 32
-  orig: 47, 46
-  offset: 2, 7
-  index: -1
-fx_coinA_02
-  rotate: false
-  xy: 92, 592
-  size: 43, 22
-  orig: 47, 46
-  offset: 2, 12
-  index: -1
-fx_coinA_03
-  rotate: false
-  xy: 2, 596
-  size: 43, 18
-  orig: 47, 46
-  offset: 2, 14
-  index: -1
-fx_coinA_04
-  rotate: false
-  xy: 182, 588
-  size: 43, 26
-  orig: 47, 46
-  offset: 2, 10
-  index: -1
-fx_coinA_05
-  rotate: false
-  xy: 362, 578
-  size: 43, 36
-  orig: 47, 46
-  offset: 2, 5
-  index: -1
-fx_coinA_06
+coin_A_01
   rotate: true
-  xy: 48, 550
-  size: 44, 42
-  orig: 47, 46
-  offset: 1, 2
+  xy: 748, 10
+  size: 108, 79
+  orig: 108, 79
+  offset: 0, 0
   index: -1
-fx_coinA_07
+coin_A_02
   rotate: false
-  xy: 321, 532
-  size: 44, 44
-  orig: 47, 46
-  offset: 1, 1
+  xy: 906, 84
+  size: 97, 95
+  orig: 97, 95
+  offset: 0, 0
   index: -1
-fx_coinA_08
-  rotate: true
-  xy: 138, 543
-  size: 43, 44
-  orig: 47, 46
-  offset: 2, 1
-  index: -1
-fx_coinA_09
+coin_A_03
   rotate: false
-  xy: 92, 548
-  size: 44, 42
-  orig: 47, 46
-  offset: 1, 2
+  xy: 882, 181
+  size: 111, 59
+  orig: 111, 59
+  offset: 0, 0
   index: -1
-fx_coinA_10
+coin_A_04
   rotate: false
-  xy: 407, 578
-  size: 44, 36
-  orig: 47, 46
-  offset: 1, 5
+  xy: 829, 18
+  size: 75, 100
+  orig: 89, 102
+  offset: 6, 2
   index: -1
-fx_coinA_11
+coin_A_05
   rotate: false
-  xy: 227, 588
-  size: 43, 26
-  orig: 47, 46
-  offset: 2, 10
+  xy: 748, 120
+  size: 110, 97
+  orig: 110, 97
+  offset: 0, 0
   index: -1
-fx_coinA_12
+eff_spot_1
   rotate: false
-  xy: 47, 596
-  size: 43, 18
-  orig: 47, 46
-  offset: 2, 14
+  xy: 336, 33
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
   index: -1
-fx_coinA_13
+frame
   rotate: false
-  xy: 137, 592
-  size: 43, 22
-  orig: 47, 46
-  offset: 2, 12
+  xy: 748, 219
+  size: 132, 121
+  orig: 242, 180
+  offset: 54, 30
   index: -1
-fx_coinA_14
-  rotate: false
-  xy: 317, 582
-  size: 43, 32
-  orig: 47, 46
-  offset: 2, 7
-  index: -1
-fx_coinA_15
-  rotate: false
-  xy: 2, 554
-  size: 44, 40
-  orig: 47, 46
-  offset: 1, 3
-  index: -1
-fx_coinA_16
-  rotate: false
-  xy: 184, 543
-  size: 44, 43
-  orig: 47, 46
-  offset: 1, 2
-  index: -1
-fx_coinA_17
-  rotate: false
-  xy: 230, 537
-  size: 43, 43
-  orig: 47, 46
-  offset: 2, 2
-  index: -1
-fx_coinA_18
-  rotate: true
-  xy: 275, 537
-  size: 43, 44
-  orig: 47, 46
-  offset: 2, 1
-  index: -1
-fx_sparkle
-  rotate: true
-  xy: 367, 530
-  size: 46, 47
-  orig: 50, 51
-  offset: 2, 2
-  index: -1
-smoke
+fx_bloom
   rotate: true
   xy: 2, 2
-  size: 526, 519
-  orig: 526, 519
+  size: 338, 332
+  orig: 338, 332
   offset: 0, 0
+  index: -1
+fx_sparkle
+  rotate: false
+  xy: 860, 129
+  size: 43, 50
+  orig: 50, 51
+  offset: 3, 0
   index: -1
