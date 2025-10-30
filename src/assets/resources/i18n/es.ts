@@ -443,6 +443,10 @@ export const languages = {
         "gameNames.64": "Magic Forest",
         "game_name": "Magic Forest",
         "game_icon_name": "Magic Forest"
+    },
+    "LegendOfHeroes": {
+        "game_name": "The Legend of Heroes",
+        "game_icon_name": "The Legend\nof Heroes"
     }
 };
 

@@ -291,7 +291,7 @@ export const languages = {
         "title_multiplier": "গুণক",
         "crash_start_in": "শুরু হবে %{time}",
         "crashed": "বিধ্বস্ত",
-        "start": "শুরু করুন",
+        "start": "শুরু",
         "max": "সর্বোচ্চ",
         "stop_auto_bet": "অটো বেট বন্ধ করুন",
         "msg_rotate_to_portrait": "খেলতে আপনার স্ক্রিনটি পোর্ট্রেট মোডে ঘোরান",
@@ -443,6 +443,10 @@ export const languages = {
         "gameNames.64": "Magic Forest",
         "game_name": "Magic Forest",
         "game_icon_name": "Magic Forest"
+    },
+    "LegendOfHeroes": {
+        "game_name": "বীরদের কিংবদন্তি",
+        "game_icon_name": "বীরদের কিংবদন্তি"
     }
 };
 

@@ -1,12 +1,12 @@
 {
   "previewOddsSymbolNumberColor": "#ffffff",
-  "previewOddsWinValueColor": "#42ff89",
-  "previewOddsBorderColor": "#ea821b",
-  "bonusCountItemTextColor": "#ffcc00",
-  "noticeTextColor": "#eaeaea",
-  "noticeHighlightTextColor": "#ffcc00",
-  "bottomAreaTextColor": "#ffe63f",
+  "previewOddsWinValueColor": "#fffc5c",
+  "previewOddsBorderColor": "#FFEFAF",
+  "bonusCountItemTextColor": "#fffc5c",
+  "noticeTextColor": "#ffffff",
+  "noticeHighlightTextColor": "#fffc5c",
+  "bottomAreaTextColor": "#fff000",
   "bottomAreaNumberColor": "#ffffff",
-  "bottomAreaButtonBorderColor": "#ea821b",
-  "bottomAreaWinAmountColor": "#FFF10E"
+  "bottomAreaButtonBorderColor": "#FFEFAF",
+  "bottomAreaWinAmountColor": "#fffc5c"
 }

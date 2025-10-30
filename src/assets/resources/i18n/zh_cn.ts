@@ -443,6 +443,10 @@ export const languages = {
         "gameNames.64": "魔法森林",
         "game_name": "魔法森林",
         "game_icon_name": "魔法森林"
+    },
+    "LegendOfHeroes": {
+        "game_name": "英雄传说",
+        "game_icon_name": "英雄传说"
     }
 };
 

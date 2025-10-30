@@ -1,153 +1,146 @@
 
-mascot.webp
-size: 1790,651
+mascot.png
+size: 1469,369
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-arm_l
+Fire 0503
   rotate: true
-  xy: 1376, 299
-  size: 350, 147
-  orig: 350, 151
-  offset: 0, 4
+  xy: 1455, 352
+  size: 15, 12
+  orig: 97, 55
+  offset: 6, 21
   index: -1
-arm_r
+Fire 0504
   rotate: false
-  xy: 1525, 304
-  size: 214, 191
-  orig: 214, 191
+  xy: 1191, 50
+  size: 53, 26
+  orig: 97, 55
+  offset: 5, 13
+  index: -1
+Fire 0505
+  rotate: false
+  xy: 979, 48
+  size: 79, 28
+  orig: 97, 55
+  offset: 4, 12
+  index: -1
+Fire 0506
+  rotate: false
+  xy: 729, 18
+  size: 77, 29
+  orig: 97, 55
+  offset: 6, 11
+  index: -1
+Fire 0507
+  rotate: false
+  xy: 650, 17
+  size: 77, 30
+  orig: 97, 55
+  offset: 6, 10
+  index: -1
+Fire 0508
+  rotate: false
+  xy: 898, 46
+  size: 79, 30
+  orig: 97, 55
+  offset: 6, 10
+  index: -1
+Fire 0509
+  rotate: false
+  xy: 569, 17
+  size: 79, 30
+  orig: 97, 55
+  offset: 6, 10
+  index: -1
+Fire 0510
+  rotate: false
+  xy: 808, 19
+  size: 83, 28
+  orig: 97, 55
+  offset: 6, 13
+  index: -1
+Fire 0511
+  rotate: false
+  xy: 1060, 48
+  size: 76, 28
+  orig: 97, 55
+  offset: 7, 12
+  index: -1
+Fire 0512
+  rotate: false
+  xy: 1293, 51
+  size: 80, 25
+  orig: 97, 55
+  offset: 6, 16
+  index: -1
+Fire 0513
+  rotate: false
+  xy: 1375, 51
+  size: 80, 25
+  orig: 97, 55
+  offset: 7, 16
+  index: -1
+Fire 0514
+  rotate: false
+  xy: 1293, 24
+  size: 67, 25
+  orig: 97, 55
+  offset: 21, 16
+  index: -1
+Fire 0515
+  rotate: false
+  xy: 1362, 25
+  size: 63, 24
+  orig: 97, 55
+  offset: 21, 16
+  index: -1
+Fire 0516
+  rotate: false
+  xy: 1138, 48
+  size: 51, 28
+  orig: 97, 55
+  offset: 34, 12
+  index: -1
+Fire 0517
+  rotate: false
+  xy: 1246, 50
+  size: 45, 26
+  orig: 97, 55
+  offset: 39, 13
+  index: -1
+Fire 0518
+  rotate: false
+  xy: 1191, 23
+  size: 40, 25
+  orig: 97, 55
+  offset: 44, 14
+  index: -1
+Fire 0519
+  rotate: false
+  xy: 1427, 26
+  size: 21, 23
+  orig: 97, 55
+  offset: 63, 15
+  index: -1
+cloak-back
+  rotate: true
+  xy: 569, 49
+  size: 318, 327
+  orig: 318, 327
   offset: 0, 0
   index: -1
-backhair
+dragon
   rotate: true
-  xy: 926, 28
-  size: 244, 179
-  orig: 244, 179
+  xy: 2, 2
+  size: 365, 565
+  orig: 365, 565
   offset: 0, 0
   index: -1
-body
+hero
   rotate: true
-  xy: 381, 274
-  size: 375, 657
-  orig: 388, 657
-  offset: 13, 0
-  index: -1
-eyeclosed_l
-  rotate: false
-  xy: 1741, 418
-  size: 44, 40
-  orig: 44, 43
-  offset: 0, 0
-  index: -1
-eyeclosed_r
-  rotate: false
-  xy: 1525, 502
-  size: 69, 55
-  orig: 76, 64
-  offset: 4, 4
-  index: -1
-eyeopened_l
-  rotate: false
-  xy: 1008, 7
-  size: 37, 19
-  orig: 39, 19
-  offset: 1, 0
-  index: -1
-eyeopened_r
-  rotate: false
-  xy: 1741, 386
-  size: 44, 30
-  orig: 44, 30
-  offset: 0, 0
-  index: -1
-face
-  rotate: true
-  xy: 1107, 10
-  size: 283, 225
-  orig: 283, 226
-  offset: 0, 1
-  index: -1
-foreleg_r
-  rotate: true
-  xy: 223, 11
-  size: 244, 330
-  orig: 244, 330
-  offset: 0, 0
-  index: -1
-fronthair
-  rotate: false
-  xy: 1525, 559
-  size: 152, 90
-  orig: 152, 90
-  offset: 0, 0
-  index: -1
-fronthair_l
-  rotate: true
-  xy: 1741, 460
-  size: 35, 47
-  orig: 35, 47
-  offset: 0, 0
-  index: -1
-head_piece
-  rotate: true
-  xy: 1679, 219
-  size: 83, 92
-  orig: 87, 95
-  offset: 0, 3
-  index: -1
-iris
-  rotate: true
-  xy: 1741, 355
-  size: 29, 31
-  orig: 95, 44
-  offset: 0, 13
-  index: -1
-leg_l
-  rotate: false
-  xy: 1040, 295
-  size: 334, 354
-  orig: 334, 354
-  offset: 0, 0
-  index: -1
-skirt_b
-  rotate: true
-  xy: 926, 2
-  size: 24, 80
-  orig: 31, 80
-  offset: 7, 0
-  index: -1
-skirt_m
-  rotate: false
-  xy: 1679, 497
-  size: 104, 152
-  orig: 107, 160
-  offset: 0, 4
-  index: -1
-wing_l-l
-  rotate: false
-  xy: 2, 6
-  size: 219, 249
-  orig: 228, 261
-  offset: 4, 8
-  index: -1
-wing_l_h
-  rotate: true
-  xy: 1334, 14
-  size: 279, 343
-  orig: 288, 354
-  offset: 3, 4
-  index: -1
-wing_r_h
-  rotate: true
-  xy: 2, 257
-  size: 392, 377
-  orig: 398, 386
-  offset: 3, 4
-  index: -1
-wing_r_l
-  rotate: false
-  xy: 555, 6
-  size: 369, 266
-  orig: 384, 276
-  offset: 11, 7
+  xy: 898, 78
+  size: 289, 555
+  orig: 298, 557
+  offset: 6, 0
   index: -1

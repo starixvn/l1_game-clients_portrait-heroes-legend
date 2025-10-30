@@ -443,6 +443,10 @@ export const languages = {
         "gameNames.64": "마법의 숲",
         "game_name": "마법의 숲",
         "game_icon_name": "마법의 숲"
+    },
+    "LegendOfHeroes": {
+        "game_name": "영웅의 전설",
+        "game_icon_name": "영웅의 전설"
     }
 };
 

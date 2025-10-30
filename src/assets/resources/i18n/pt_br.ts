@@ -443,6 +443,10 @@ export const languages = {
         "gameNames.64": "Floresta Mágica",
         "game_name": "Floresta Mágica",
         "game_icon_name": "Floresta Mágica"
+    },
+    "LegendOfHeroes": {
+        "game_name": "A Lenda dos Heróis",
+        "game_icon_name": "A Lenda dos Heróis"
     }
 };
 
